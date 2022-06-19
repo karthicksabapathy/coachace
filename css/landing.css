@@ -1441,6 +1441,13 @@ section.offer_sec h2 {
     .coach-image img {
         width: 120px;
     }
+    .logo {
+        width: 200px;
+    }
+    .benefits-child h3 {
+        color: #FFFFFF;
+        font-size: 18px;
+    }
 }
 
 
